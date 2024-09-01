@@ -8,7 +8,7 @@ dunst &
 
 xrdb -merge .Xresources &
 
-nitrogen --restore --set-zoom-fill &
+/bin/sh -c $HOME/.fehbg &
 
 setxkbmap -option caps:escape &
 
