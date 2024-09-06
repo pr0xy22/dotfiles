@@ -104,6 +104,6 @@ fi
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #alias vim="nvim"
-alias study="cd ~/repos/learnc"
+alias study="cd ~/repos/C-Exercises"
 alias mpvaudio="mpv --no-audio-display"
 eval "$(starship init zsh)"
