@@ -106,4 +106,4 @@ fi
 #alias vim="nvim"
 alias study="cd ~/repos/C-Exercises"
 alias mpvaudio="mpv --no-audio-display"
-eval "$(starship init zsh)"
+#eval "$(starship init zsh)"
